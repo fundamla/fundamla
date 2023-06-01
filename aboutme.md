@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fundamla
 - 👀 I’m interested in learning and exploring new things.
-- 🌱 I’m currently learning fundamental of data analysis.
+- 🌱 I’m currently learning fundamentals of data analytics.
 - 💞️ I’m looking to collaborate on someone who can enjoy working with me when I have enough knowledge :) it is not the right time now.
 - 📫 How to reach me - fdamlaturan@gmail.com
 
